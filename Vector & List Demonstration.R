@@ -1,7 +1,6 @@
 # ---------------------------------------------
 # Title: Vector & List Demonstration
 # Author: Yash Katekhaye
-# Date: 2025-02-09
 # ---------------------------------------------
 
 cat("Created By: Yash Katekhaye\n")
